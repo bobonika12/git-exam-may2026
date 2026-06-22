@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
   "environment": "production",
-  "auth_enabled": true
+  "auth_enabled": "CORRUPTED_VALUE"
 }
